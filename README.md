@@ -1,7 +1,7 @@
 # TPSUE5
  Thirdperson shooter for UE5
  
- Functional multiplayer setup, done with blueprint. Code credit goes to GameDevRaw. 
+ Functional multiplayer setup, done with blueprint. Assets is from Lyra starter game. Code credit goes to GameDevRaw. 
 
 
 ![Capture](https://user-images.githubusercontent.com/2607194/183503793-4c0afbbf-0729-4b92-8d5a-a663752ed661.PNG)
