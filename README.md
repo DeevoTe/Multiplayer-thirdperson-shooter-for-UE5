@@ -1,4 +1,4 @@
-#Thirdperson shooter for UE5
+Thirdperson shooter for UE5
  
  Functional multiplayer setup, done with blueprint. Assets is from Lyra starter game. Code credit goes to GameDevRaw. 
 
